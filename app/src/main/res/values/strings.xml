@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HowIDress</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="teteString">Tête ?</string>
+    <string name="scarfString">Echarpe ?</string>
+    <string name="jacketString">Blouson ?</string>
+    <string name="sweaterString">Pull ?</string>
+    <string name="shirtString">Chemise / T-shirt?</string>
+    <string name="jeanString">Pantalon ?</string>
+    <string name="shoesString">Chaussures ?</string>
+    <string name="buttonString">Alex, je sais pas comment m\'habiller</string>
+    <string name="title_activity_outfit">OutfitActivity</string>
+    <string name="outfitJeanString">Medium Text</string>
+    <string name="outfitShoesString">Medium Text</string>
+    <string name="outfitShirt">Medium Text</string>
+    <string name="textHat">Medium Text</string>
+    <string name="textScarf">Medium Text</string>
+    <string name="textJacket">Medium Text</string>
+    <string name="textSweater">Medium Text</string>
+    <string name="textJean$">Medium Text</string>
+    <string name="textShoes">Medium Text</string>
+</resources>
